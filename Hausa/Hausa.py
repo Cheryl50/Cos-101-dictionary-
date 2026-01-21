@@ -1,0 +1,23 @@
+hausa_dict={
+              "thank you": "nagode",
+              "hello": "sannu",
+              "bye": "wallahi",
+              "morning": "safe",
+              "evening": "mariace",
+              "after": "rana",
+              "beautiful": "kyau",
+              "smart": "mai hankali",
+              "strong": "mai karfi",
+              "house": "gida",
+              "school": "makaranta",
+              "mouth": "baki",
+              "eye": "ido",
+              "head": "kai",
+              "food": "abinci",
+              'tall' : 'tsayi',
+              'short' : 'gajere',
+              'fat' : 'mai',
+              'slim' : 'siriri',
+              'good' : 'mai kyau',
+              'bad' :'mara kyau'
+              }
